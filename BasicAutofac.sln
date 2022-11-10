@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAutofac.ConsoleApp", "BasicAutofac.ConsoleApp\BasicAutofac.ConsoleApp.csproj", "{3E889932-3D77-4907-82F6-45A3361F2686}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAutofac.WebApp", "BasicAutofac.WebApp\BasicAutofac.WebApp.csproj", "{B6ADC71B-571A-44DB-A8A6-24262270C804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E889932-3D77-4907-82F6-45A3361F2686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E889932-3D77-4907-82F6-45A3361F2686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E889932-3D77-4907-82F6-45A3361F2686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E889932-3D77-4907-82F6-45A3361F2686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6ADC71B-571A-44DB-A8A6-24262270C804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6ADC71B-571A-44DB-A8A6-24262270C804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6ADC71B-571A-44DB-A8A6-24262270C804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6ADC71B-571A-44DB-A8A6-24262270C804}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
